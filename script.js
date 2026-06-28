@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const produtos = [
         {
             id: 1, nome: "Calça Jeans", categoria: "Calças", descricao: "", preco: 129.90, imagens:
-                ["./assets/Calça-jeans.jpg", "./assets/Calça-jeans1.jpg", "./assets/calça masculina.jpg"]
+                ["./assets/Calça-jeans.jpg", "./assets/Calça-jeans1.jpg", "./assets/Calça masculina.jpg"]
         },
 
         {
