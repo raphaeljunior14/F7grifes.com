@@ -35,25 +35,25 @@ document.addEventListener("DOMContentLoaded", () => {
         },
           {
             id: 3, nome: "Camiseta Brasil Preta", categoria: "brasil", descricao: "", preco: 199.90,
-            imagens: ["./assets/kit seleção.jpg"]
+            imagens: ["./assets/kit seleção.jpg","./assets/kit seleção1.jpg"]
         },
         
     
         {
-            id: 4, nome: "Camiseta Flamengo Branca", categoria: "flamengo", descricao: "", preco: 79.90,
-            imagens: ["./assets/flamengo2.jpg", "./assets/flamengo2.jpg", "./assets/flamengo2.jpg"]
+            id: 4, nome: "kits", categoria: "Kits", descricao: "", preco: 399.90,
+            imagens: ["./assets/kit1.jpg", "./assets/kit2.jpg", "./assets/kit3.jpg", "./assets/kit4.jpg"]
         },
         {
-            id: 5, nome: "Camiseta Corinthians Preta", categoria: "corinthians", descricao: "", preco: 79.90,
-            imagens: ["./assets/corinthians2.jpg", "./assets/corinthians2.jpg", "./assets/corinthians2.jpg"]
+            id: 5, nome: "Nike", categoria: "Tenis", descricao: "", preco: 199.90,
+            imagens: ["./assets/nike1.jpg", "./assets/nike2.jpg", "./assets/nike3.jpg"]
         },
         {
-            id: 6, nome: "Camiseta Corinthians Branca", categoria: "corinthians", descricao: "", preco: 79.90,
-            imagens: ["./assets/corinthians1.jpg", "./assets/corinthians1.jpg", "./assets/corinthians1.jpg"]
+            id: 6, nome: "Mizuno", categoria: "Tenis", descricao: "", preco: 79.90,
+            imagens: ["./assets/mizuno1.jpg", "./assets/mizuno2.jpg", "./assets/mizuno3.jpg"]
         },
         {
-            id: 7, nome: "Camiseta São Paulo", categoria: "sao-paulo", descricao: "", preco: 79.90,
-            imagens: ["./assets/sao-paulo.jpg", "./assets/sao-paulo.jpg", "./assets/sao-paulo.jpg"]
+            id: 7, nome: "kit adidas", categoria: "Kits", descricao: "", preco: 199.90,
+            imagens: ["./assets/kit adidas1.jpg", "./assets/kit adidas2.jpg"]
         },
         {
             id: 8, nome: "Camiseta São Paulo Preta", categoria: "sao-paulo",descricao: "",  preco: 79.90,
