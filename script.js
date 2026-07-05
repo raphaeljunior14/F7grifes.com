@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         {
             id: 2, nome: "Conjunto nike", categoria: "Conjuntos", descricao: "", preco: 199.90,
-            imagens: ["./assets/Conjunto nike azul.jpg" ,"./assets/Conjunto nike1.jpg", "./assets/Conjunto nike3.jpg"]
+            imagens: ["./assets/Conjunto nike azul.jpg" ,"./assets/conjunto nike1.jpg", "./assets/conjunto nike3.jpg"]
         },
           {
             id: 3, nome: "Kit seleção", categoria: "Kits", descricao: "", preco: 189.90,
@@ -99,7 +99,7 @@ document.addEventListener("DOMContentLoaded", () => {
         },
           {
             id: 18, nome: "moletom nike", categoria: "Conjuntos", descricao: "", preco: 249.90,
-            imagens: ["./assets/conjunto moletom3.jpg","./assets/conjunto moletom1.jpg","./assets/conjunto moletom2.jpg"]
+            imagens: ["./assets/Conjunto moletom3.jpg","./assets/conjunto moletom1.jpg","./assets/conjunto moletom2.jpg"]
         },
         
         
