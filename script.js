@@ -30,11 +30,11 @@ document.addEventListener("DOMContentLoaded", () => {
         },
 
         {
-            id: 2, nome: "Conjuntos-nike", categoria: "Conjuntos", descricao: "", preco: 199.90,
-            imagens: ["./assets/Conjunto nike azul.jpg", "./assets/Conjunto nike-black.jpg"]
+            id: 2, nome: "Conjunto nike", categoria: "Conjuntos", descricao: "", preco: 199.90,
+            imagens: ["./assets/Conjunto nike azul.jpg" ,"./assets/Conjunto nike1.jpg", "./assets/Conjunto nike3.jpg"]
         },
           {
-            id: 3, nome: "Camiseta seleção", categoria: "brasil", descricao: "", preco: 99.90,
+            id: 3, nome: "Kit seleção", categoria: "Kits", descricao: "", preco: 189.90,
             imagens: ["./assets/kit seleção.jpg","./assets/kit seleção1.jpg"]
         },
         
@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", () => {
             imagens: ["./assets/mizuno1.jpg", "./assets/mizuno2.jpg", "./assets/mizuno3.jpg"]
         },
         {
-            id: 7, nome: "kit adidas", categoria: "Kits", descricao: "", preco: 199.90,
+            id: 7, nome: "kit adidas", categoria: "Kits", descricao: "", preco: 99.90,
             imagens: ["./assets/kit adidas1.jpg", "./assets/kit adidas2.jpg"]
         },
         {
@@ -72,7 +72,7 @@ document.addEventListener("DOMContentLoaded", () => {
             imagens: ["./assets/bone3.jpg", "./assets/bone2.jpg", "./assets/bone1.jpg"]
         },
             {
-            id: 12, nome: "camiseta", categoria: "camisetas", descricao: "", preco: 69.90,
+            id: 12, nome: "camiseta", categoria: "Camisetas", descricao: "", preco: 69.90,
             imagens: ["./assets/camiseta1.jpg", "./assets/camiseta2.jpg"]
         },
       
@@ -89,6 +89,19 @@ document.addEventListener("DOMContentLoaded", () => {
             id: 15, nome: "perfume", categoria: "Perfumes", descricao: "", preco: 199.90,
             imagens: ["./assets/perfume.jpg"]
         },
+          {
+            id: 16, nome: "Chinelos", categoria: "Chinelos", descricao: "", preco: 99.90,
+            imagens: ["./assets/chinelos1.jpg","./assets/chinelos2.jpg",]
+        },
+          {
+            id: 17, nome: "Tenis", categoria: "Tenis", descricao: "", preco: 179.90,
+            imagens: ["./assets/tenis2.jpg","./assets/tenis1.jpg"]
+        },
+          {
+            id: 18, nome: "moletom nike", categoria: "Conjuntos", descricao: "", preco: 249.90,
+            imagens: ["./assets/conjunto moletom3.jpg","./assets/conjunto moletom1.jpg","./assets/conjunto moletom2.jpg"]
+        },
+        
         
 
     ];
