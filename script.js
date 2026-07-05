@@ -31,10 +31,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
         {
             id: 2, nome: "Conjuntos-nike", categoria: "Conjuntos", descricao: "", preco: 199.90,
-            imagens: ["./assets/Conjunto nike azul.jpg", "./assets/Conjunto nike-black.jpg", "./assets/Conjuntos-nike.jpg"]
+            imagens: ["./assets/Conjunto nike azul.jpg", "./assets/Conjunto nike-black.jpg"]
         },
           {
-            id: 3, nome: "Camiseta Brasil Preta", categoria: "brasil", descricao: "", preco: 199.90,
+            id: 3, nome: "Camiseta seleção", categoria: "brasil", descricao: "", preco: 99.90,
             imagens: ["./assets/kit seleção.jpg","./assets/kit seleção1.jpg"]
         },
         
@@ -45,10 +45,10 @@ document.addEventListener("DOMContentLoaded", () => {
         },
         {
             id: 5, nome: "Nike", categoria: "Tenis", descricao: "", preco: 199.90,
-            imagens: ["./assets/nike1.jpg", "./assets/nike2.jpg", "./assets/nike3.jpg"]
+            imagens: ["./assets/nike1.jpg", "./assets/nike2.jpg", "./assets/nike3.jpg", "./assets/nike4.jpg"]
         },
         {
-            id: 6, nome: "Mizuno", categoria: "Tenis", descricao: "", preco: 79.90,
+            id: 6, nome: "Mizuno", categoria: "Tenis", descricao: "", preco: 299.90,
             imagens: ["./assets/mizuno1.jpg", "./assets/mizuno2.jpg", "./assets/mizuno3.jpg"]
         },
         {
@@ -56,38 +56,40 @@ document.addEventListener("DOMContentLoaded", () => {
             imagens: ["./assets/kit adidas1.jpg", "./assets/kit adidas2.jpg"]
         },
         {
-            id: 8, nome: "Camiseta São Paulo Preta", categoria: "sao-paulo",descricao: "",  preco: 79.90,
-            imagens: ["./assets/sao-paulo2.jpg", "./assets/sao-paulo2.jpg", "./assets/sao-paulo2.jpg"]
+            id: 8, nome: "Blusa de frio NBA", categoria: "Blusas de frio",descricao: "",  preco: 229.90,
+            imagens: ["./assets/blusa de frio1.jpg", "./assets/blusa de frio2.jpg", "./assets/blusa de frio3.jpg"]
         },
         {
-            id: 9, nome: "Camiseta Goiás Verde", categoria: "goias", descricao: "", preco: 79.90,
-            imagens: ["./assets/goias.jpg", "./assets/goias.jpg", "./assets/goias.jpg"]
+            id: 9, nome: "Blusa de frio", categoria: "Blusas de frio", descricao: "", preco: 199.90,
+            imagens: ["./assets/blusa de frio bkf1.jpg", "./assets/blusa de frio bkf2.jpg"]
         },
         {
-            id: 10, nome: "Camiseta Goiás Branca", categoria: "goias", descricao: "", preco: 79.90,
-            imagens: ["./assets/goias2.jpg", "./assets/goias2.jpg", "./assets/goias2.jpg"]
+            id: 10, nome: "nike/puma", categoria: "Blusas de frio", descricao: "", preco: 199.90,
+            imagens: ["./assets/blusa de frio nike1.jpg", "./assets/blusa de frio puma1.jpg"]
         },
         {
-            id: 11, nome: "Camiseta Vila Nova", categoria: "vila-nova", descricao: "", preco: 79.90,
-            imagens: ["./assets/vila-nova.jpg", "./assets/vila-nova.jpg", "./assets/vila-nova.jpg"]
-        },
-        {
-            id: 12, nome: "Camiseta Vila Nova Branca", categoria: "vila-nova", descricao: "", preco: 79.90,
-            imagens: ["./assets/vila-nova2.jpg", "./assets/vila-nova2.jpg", "./assets/vila-nova2.jpg"]
-        },
-        {
-            id: 13, nome: "Camiseta Brasil Amarela", categoria: "brasil", descricao: "", preco: 89.90,
-            imagens: ["./assets/brasil1.jpg", "./assets/brasil1.jpg", "./assets/brasil1.jpg"]
-        },
-        {
-            id: 14, nome: "Camiseta Brasil Branca", categoria: "brasil", descricao: "", preco: 89.90,
-            imagens: ["./assets/brasil2.jpg", "./assets/brasil3.jpg", "./assets/brasil2.jpg"]
+            id: 11, nome: "Bones", categoria: "Bones", descricao: "", preco: 89.90,
+            imagens: ["./assets/bone3.jpg", "./assets/bone2.jpg", "./assets/bone1.jpg"]
         },
             {
-            id: 15, nome: "Camiseta Flamengo Rubru-negra", categoria: "flamengo", descricao: "", preco: 79.90,
-            imagens: ["./assets/flamengo.jpg", "./assets/flamengo.jpg", "./assets/flamengo.jpg"]
+            id: 12, nome: "camiseta", categoria: "camisetas", descricao: "", preco: 69.90,
+            imagens: ["./assets/camiseta1.jpg", "./assets/camiseta2.jpg"]
         },
       
+       
+        {
+            id: 13, nome: "bermuda", categoria: "Shorts", descricao: "", preco: 119.90,
+            imagens: ["./assets/bermuda1.jpg"]
+        },
+        {
+            id: 14, nome: "okley", categoria: "Ray ban", descricao: "", preco: 99.90,
+            imagens: ["./assets/okley1.jpg"]
+        },
+         {
+            id: 15, nome: "perfume", categoria: "Perfumes", descricao: "", preco: 199.90,
+            imagens: ["./assets/perfume.jpg"]
+        },
+        
 
     ];
 
