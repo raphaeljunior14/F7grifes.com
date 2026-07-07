@@ -275,7 +275,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (!nome) return alert("Preencha seu nome!");
         const itensMsg = carrinho.map(i => `- ${i.qtd}x ${i.nome} (${i.tamanho})`).join('\n');
         const msg = `*F7 GRIFES - NOVO PEDIDO*\nwww.F7GRIFES.com.br\nCliente: ${nome}\nTotal: ${totalElem.innerText}\nItens:\n${itensMsg}`;
-        window.open(`https://wa.me/551197099 9294?text=${encodeURIComponent(msg)}`);
+        window.open(`https://wa.me/5511970999294?text=${encodeURIComponent(msg)}`);
     };
 
     renderProdutos();
